@@ -1,4 +1,4 @@
-TEX=submitted2.tex
+TEX=submitted3.tex
 
 rm -rf arxiv
 mkdir -p arxiv
@@ -8,7 +8,7 @@ cp ../"$TEX" arxiv/
 cp ../agujournal2019.cls arxiv/
 cp ../trackchanges.sty arxiv/
 cp ../main.bib arxiv/
-cp ../figures/combined/figure*.pdf arxiv/
+cp ../figures/combined/*.pdf arxiv/
 
 # Replace \usepackage{lineno} with %\usepackage{lineno} in main.tex
 sed -i '' 's/\\usepackage{lineno}/%\\usepackage{lineno}/' arxiv/"$TEX"

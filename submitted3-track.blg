@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2025)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: submitted3.aux
+The top-level auxiliary file: submitted3-track.aux
 The style file: apacite.bst
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
@@ -16,7 +16,7 @@ apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No journal in Burch2026
 You've used 70 entries,
             6951 wiz_defined-function locations,
-            1718 strings with 33860 characters,
+            1718 strings with 33872 characters,
 and the built_in function-call counts, 128594 in all, are:
 = -- 15711
 > -- 1079
