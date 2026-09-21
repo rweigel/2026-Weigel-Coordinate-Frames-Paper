@@ -66,30 +66,31 @@ Angelopoulos%
 \ \protect \BOthers {.}}{%
 Angelopoulos%
 \ \protect \BOthers {.}}{%
-{\protect \APACyear {2024}}%
-{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
-Angelopoulos2024}
+{\protect \APACyear {2026}}%
+}]{%
+PySPEDAS}
 \APACinsertmetastar {%
-Angelopoulos2024}%
+PySPEDAS}%
 \begin{APACrefauthors}%
 Angelopoulos, V.%
-, Lewis, J.%
-, McTiernan, J.%
+, Harter, B.%
 , Grimes, E.%
 , Russell, C.%
-, Drozdov, A.%
-\BDBL {}Flores, A.%
+, Wu, J.%
+, Lewis, J.%
+\BDBL {}Carpenter, D.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2024{\protect \BCnt {1}}}{}{}.
+\APACrefYearMonthDay{2026}{}{}.
 \newblock
-\APACrefbtitle {{SPEDAS (Space Physics Environment Data Analysis System)}.}
-  {{SPEDAS (Space Physics Environment Data Analysis System)}.}
+\APACrefbtitle {{PySPEDAS (Space Physics Environment Data Analysis System in
+  Python) (Version 2.1.1) [Software]}.} {{PySPEDAS (Space Physics Environment
+  Data Analysis System in Python) (Version 2.1.1) [Software]}.}
 \newblock
 \APACaddressPublisher{}{Zenodo}.
 \newblock
-\begin{APACrefDOI} \doi{10.5281/ZENODO.14919975} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.5281/ZENODO.17634923} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -98,7 +99,7 @@ Angelopoulos%
 Angelopoulos%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2024}}%
-{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+}]{%
 Angelopoulos2024IDL}
 \APACinsertmetastar {%
 Angelopoulos2024IDL}%
@@ -113,14 +114,47 @@ Angelopoulos, V.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2024{\protect \BCnt {2}}}{}{}.
+\APACrefYearMonthDay{2024}{}{}.
 \newblock
-\APACrefbtitle {{SPEDAS (Space Physics Environment Data Analysis System)}.}
-  {{SPEDAS (Space Physics Environment Data Analysis System)}.}
+\APACrefbtitle {{SPEDAS (Space Physics Environment Data Analysis System)
+  [Software]}.} {{SPEDAS (Space Physics Environment Data Analysis System)
+  [Software]}.}
 \newblock
 \APACaddressPublisher{}{Zenodo}.
 \newblock
-\begin{APACrefDOI} \doi{10.5281/zenodo.15023025} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.5281/ZENODO.15023025} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Annex%
+\ \protect \BOthers {.}}{%
+Annex%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+SpiceyPy}
+\APACinsertmetastar {%
+SpiceyPy}%
+\begin{APACrefauthors}%
+Annex, A.%
+, Pearson, B.%
+, Seignovert, B.%
+, Carcich, B.%
+, Eichhorn, H.%
+, Mapel, J.%
+\BDBL {}Murakami, S\BHBI y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{02}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{SpiceyPy: a Pythonic Wrapper for the SPICE Toolkit
+  (Version 8.1.0) [Software]}} {{SpiceyPy: a Pythonic Wrapper for the SPICE
+  Toolkit (Version 8.1.0) [Software]}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Open Source Software}{5}{46}{2050}.
+\newblock
+\begin{APACrefDOI} \doi{10.21105/joss.02050} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -172,8 +206,8 @@ Boller, R.%
 \APACrefYearMonthDay{2025}{}{}.
 \newblock
 \APACrefbtitle {{Space Physics Coordinate Transforms based on Hapgood 1985
-  Algorithm}.} {{Space Physics Coordinate Transforms based on Hapgood 1985
-  Algorithm}.}
+  Algorithm [Software]}.} {{Space Physics Coordinate Transforms based on
+  Hapgood 1985 Algorithm [Software]}.}
 \newblock
 \APAChowpublished {\url{https://github.com/edsantiago/cxform}}.
 \newblock
@@ -203,7 +237,8 @@ Boscher, D.%
 \newblock
 \APACrefYearMonthDay{2022}{}{}.
 \newblock
-\APACrefbtitle {{PRBEM/IRBEM: v5.0.0}.} {{PRBEM/IRBEM: v5.0.0}.}
+\APACrefbtitle {{PRBEM/IRBEM (Version 5.0.0) [Software]}.} {{PRBEM/IRBEM
+  (Version 5.0.0) [Software]}.}
 \newblock
 \APACaddressPublisher{}{Zenodo}.
 \newblock
@@ -983,7 +1018,8 @@ Morley, S\BPBI K.%
 \newblock
 \APACrefYearMonthDay{2024}{}{}.
 \newblock
-\APACrefbtitle {{SpacePy}.} {{SpacePy}.}
+\APACrefbtitle {{SpacePy (Version 0.6.0) [Software]}.} {{SpacePy (Version
+  0.6.0) [Software]}.}
 \newblock
 \APACaddressPublisher{}{Zenodo}.
 \newblock
@@ -1039,12 +1075,13 @@ Mumford, S\BPBI J.%
 \newblock
 \APACrefYearMonthDay{2025}{}{}.
 \newblock
-\APACrefbtitle {{SunPy: A Core Package for Solar Physics}.} {{SunPy: A Core
-  Package for Solar Physics}.}
+\APACrefbtitle {{SunPy: A Core Package for Solar Physics} (Version 7.1.2)
+  [Software].} {{SunPy: A Core Package for Solar Physics} (version 7.1.2)
+  [software].}
 \newblock
 \APACaddressPublisher{}{Zenodo}.
 \newblock
-\begin{APACrefDOI} \doi{10.5281/zenodo.17857260} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.5281/ZENODO.17857260} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1441,8 +1478,9 @@ Robert, P.%
 \APACrefYearMonthDay{1993}{}{}.
 \newblock
 \APACrefbtitle {{ROCOTLIB: A Coordinate Transformation Library for
-  Solar-Terrestrial studies, LPP, Issue 3, Rev 2}.} {{ROCOTLIB: A Coordinate
-  Transformation Library for Solar-Terrestrial studies, LPP, Issue 3, Rev 2}.}
+  Solar-Terrestrial studies, LPP, Issue 3, Rev 2 [Software]}.} {{ROCOTLIB: A
+  Coordinate Transformation Library for Solar-Terrestrial studies, LPP, Issue
+  3, Rev 2 [Software]}.}
 \newblock
 \APAChowpublished
   {\url{https://cdpp.irap.omp.eu/index.php/services/scientific-librairies/rocotlib}}.
@@ -1692,7 +1730,7 @@ Tsyganenko, N.%
 \newblock
 \APACrefYearMonthDay{2008}{}{}.
 \newblock
-\APACrefbtitle {{Geopack 2008}.} {{Geopack 2008}.}
+\APACrefbtitle {{Geopack 2008 [Software]}.} {{Geopack 2008 [Software]}.}
 \newblock
 \APAChowpublished
   {\url{https://geo.phys.spbu.ru/~tsyganenko/empirical-models/coordinate_systems/geopack/}}.
@@ -1821,13 +1859,14 @@ Weigel, R.%
 \newblock
 \APACrefbtitle {{Code for Weigel et al., 2026, Coordinate Systems and
   Transforms in Space Physics: Terms, Definitions, Implementations, and
-  Recommendations for Reproducibility}.} {{Code for Weigel et al., 2026,
-  Coordinate Systems and Transforms in Space Physics: Terms, Definitions,
-  Implementations, and Recommendations for Reproducibility}.}
+  Recommendations for Reproducibility (Version 1.0.1) [Software]}.} {{Code for
+  Weigel et al., 2026, Coordinate Systems and Transforms in Space Physics:
+  Terms, Definitions, Implementations, and Recommendations for Reproducibility
+  (Version 1.0.1) [Software]}.}
 \newblock
 \APACaddressPublisher{}{Zenodo}.
 \newblock
-\begin{APACrefDOI} \doi{10.5281/zenodo.21347327} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.5281/ZENODO.21347327} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1851,11 +1890,13 @@ Weigel, R.%
 \newblock
 \APACrefYearMonthDay{2025}{}{}.
 \newblock
-\APACrefbtitle {{rweigel/hxform}.} {{rweigel/hxform}.}
+\APACrefbtitle {{hxform - Heliophysics Reference Frame Transforms (Version
+  1.0.1) [Software]}.} {{hxform - Heliophysics Reference Frame Transforms
+  (Version 1.0.1) [Software]}.}
 \newblock
 \APACaddressPublisher{}{Zenodo}.
 \newblock
-\begin{APACrefDOI} \doi{10.5281/zenodo.21347284} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.5281/ZENODO.21347284} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

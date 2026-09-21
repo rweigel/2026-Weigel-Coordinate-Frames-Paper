@@ -14,45 +14,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: main.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No journal in Burch2026
-You've used 68 entries,
+You've used 69 entries,
             6951 wiz_defined-function locations,
-            1698 strings with 32805 characters,
-and the built_in function-call counts, 123254 in all, are:
-= -- 15133
-> -- 1056
-< -- 5713
-+ -- 5754
-- -- 196
-* -- 7642
-:= -- 21944
-add.period$ -- 300
-call.type$ -- 68
-change.case$ -- 1214
+            1709 strings with 33756 characters,
+and the built_in function-call counts, 127370 in all, are:
+= -- 15566
+> -- 1078
+< -- 6038
++ -- 6103
+- -- 197
+* -- 7974
+:= -- 22985
+add.period$ -- 303
+call.type$ -- 69
+change.case$ -- 1217
 chr.to.int$ -- 0
-cite$ -- 137
-duplicate$ -- 3503
-empty$ -- 5107
-format.name$ -- 1801
-if$ -- 23752
+cite$ -- 139
+duplicate$ -- 3597
+empty$ -- 5198
+format.name$ -- 1859
+if$ -- 24329
 int.to.chr$ -- 0
-int.to.str$ -- 218
+int.to.str$ -- 217
 missing$ -- 0
-newline$ -- 1744
-num.names$ -- 548
-pop$ -- 3711
+newline$ -- 1774
+num.names$ -- 556
+pop$ -- 3748
 preamble$ -- 1
-purify$ -- 272
+purify$ -- 278
 quote$ -- 0
-skip$ -- 6837
+skip$ -- 6986
 stack$ -- 0
-substring$ -- 6312
-swap$ -- 1782
-text.length$ -- 186
+substring$ -- 6672
+swap$ -- 1832
+text.length$ -- 190
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 5632
+type$ -- 5712
 warning$ -- 1
-while$ -- 619
+while$ -- 640
 width$ -- 0
-write$ -- 2070
+write$ -- 2110
 (There was 1 warning)
